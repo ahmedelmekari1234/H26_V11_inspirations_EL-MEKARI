@@ -8,3 +8,6 @@
 
 ![Photo d'Ahmed El-Mekari dvant l'entrée de l'édifice.](./photo/photo_soi_eloigne_expo.jpg)
 
+3. Type d'exposition
+   - temporaire et intéractive. En effet, l'exposition montre des produits faitent par des artistes de la saison du printemps. Elle est inéractive, car je peux intéragir avec l'art. L'art est une image projeté par une Ai qui vient des ondes d'un petit casque qui se met sur la tête.
+     
