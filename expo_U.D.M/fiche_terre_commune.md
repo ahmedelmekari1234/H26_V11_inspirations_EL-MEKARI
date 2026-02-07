@@ -5,6 +5,6 @@
 <br>
 
 2. Lieu de mise en exposition
-<br>
+
 ![Photo d'Ahmed El-Mekari dvant l'entrée de l'édifice.](./photo/photo_soi_eloigne_expo.jpg)
 
