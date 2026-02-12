@@ -41,13 +41,19 @@
 <br>
 
 **9. Type d'installation (contemplative, immersive, interactive)**
-   - C'est une installation immersive. Nous nous posons sur un le banc qui a été montré sur les photos précédentes par rapport à la vue d'ensemble de l'oeuvre.
+   - C'est une installation interactive. Nous nous posons sur un le banc qui a été montré sur les photos précédentes par rapport à la vue d'ensemble de l'oeuvre. Sur cette photo, nous remarquons un certain bandeau à enfiler. C'est        dans cette partie de l'oeuvre que l'exposé est interactive. Le goût de l'oeuvre et l'oeuvre en elle-même font partis de la collaboration d'un partipant.  
     ![photo 500x375](./photo/vue_dispositf.jpg)
+
+
 
 <br>
 
-  - La photo si-dessous vous montra la partie enrichissante de cette exposition. En effet, cette machine va envoyer les ondes alphas du cerveau à la machine pour qu'elle les lisent. 
-    ![photo 500x375](./photo/vue_machine_ondes.jpg)
+
+ **10 Fonction du dispositif multimédia** 
+ - Après que nous nous sommes assis(eS), nous allons prêter attention à cette rangé de ligne. Chaque ligne est une onde alpha du cerveau qui transmet, donc à la grande machine derrière les besoins nécéssaires pour faire ses calculs
+   ![photo 500x375](./photo/vue_machine_ondes.jpg)
+ - La photo si-dessous vous montra la partie enrichissante de cette exposition. En effet, cette machine va envoyer les ondes alphas du cerveau à la machine pour qu'elle les lisent.  
+    ![photo 500x375](./photo/vue_processus_machine.jpg)
 
 
 
