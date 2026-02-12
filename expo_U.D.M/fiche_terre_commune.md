@@ -60,6 +60,8 @@
 
 
 **11 Mise en espace**
+   CROQUIS DE L'IMAGE
     ![photo](./photo/croquis.jpg)
+    Sur le
     
 
