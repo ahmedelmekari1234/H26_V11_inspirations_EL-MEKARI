@@ -42,7 +42,7 @@
 
 **9. Type d'installation (contemplative, immersive, interactive)**
    - C'est une installation immersive. Nous nous posons sur un le banc qui a été montré sur les photos précédentes par rapport à la vue d'ensemble de l'oeuvre.
-    ![photo 500x375](./photo/vue_dispositf.jpg).
+    ![photo 500x375](./photo/vue_dispositf.jpg)
 
 <br>
 
