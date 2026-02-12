@@ -79,6 +79,25 @@
     
 <br>
 
-**13 Éléments nécessaires à la mise en exposition** 
+**13. Éléments nécessaires à la mise en exposition** 
 <br>
     ![photo](./photo/vue_ensemble_oeuvre.jpg)
+<br>
+   - Comme nous le pouvons voir, l'oeuvre est rempli de plusieurs cables immenses perméttant de faciliter la transmission des ondes alphas du cerveau au traducteur. Le traducteur étant la machine en sorte de A quo va ensuite donner son information au projecteur pour qu'il a l'image souhaité
+
+
+<br>
+
+**14. Expérience vécue**
+  - L'intéractivité du spectateur est assez simple à comprendre. Nous pouvons voir dans l'iamge si-dessous que la posture à adopter est celle-ci. Un dos droit et un corps calme pour des meilleurs résultats. De plus, le spectateur est attendu à être surpris par une certaine représentation de ses propres ondes. Quoi faire, en général, est assez simple à comprendre. 
+ ![photo](./photo/photo_soi_eloignee.jpg)
+
+<br>
+
+
+**15. Ce qui vous a plu, vous a donné des idées** 
+- L'oeuvre m'a vraiment donnée une inspiration sur le fait que nous pouvons rendre une activité très intéréssante même avec peu d'Inéractivité. Vous allez voir qui faut juste un seul dispositif pour donner un beau effet. De plus, un bon avantage de cette oeuvre est l'aspect scientifique derrière. Nous pousvons tout de même rester dans une activité tout en étant scientifique et je trouve que cela est le charme de l'exposé. Cette éxposition m'a motivée à penser à plus d'activité scientifique. Je peux penser à un tapis de course qui montre une certaine forme selon la course etc... Enfin, je trouve que j'ai aimé la simplicité. Elle n'était pas dure à comprendre. Le but était claire. 
+   ![photo](./photo/capteur_eeg_interieur.jpg)
+  
+**16. Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement**
+ - Je pense que je retiendrai l'absence de résultat. Oui, l'éxposition était très bonne. Cependant, il est vrai que nous pouvons trouver un certain vide dans les résultats très vite. Cela peut poser un problème assez grand. 
