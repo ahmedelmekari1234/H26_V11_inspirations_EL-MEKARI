@@ -105,4 +105,5 @@
 <br>
 
 **17. Références.**
-Le seul site de référence qui a été utilisé est celui là: <a href="https://schneidermarion.net">Références</a> 
+Le seul site de référence qui a été utilisé est celui là.: <a href="https://schneidermarion.net">Références.</a> 
+*Note: Les 5 photos du point 12 ont toutes été prises par ce site.*
