@@ -49,9 +49,6 @@
   - La photo si-dessous vous montra la partie enrichissante de cette exposition. En effet, cette machine va envoyer les ondes alphas du cerveau à la machine pour qu'elle les lisent. 
     ![photo 500x375](./photo/vue_machine_ondes.jpg)
 
-<br>
-   - Voilà une simple photo montrant les calcules faitent selon les ordinateurs et les programmes pour afficher une image corespondante.
-    ![photo 500x375](./photo/vue_processus_machine.jpg)
-   
+
 
 
