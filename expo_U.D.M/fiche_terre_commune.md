@@ -13,7 +13,7 @@
   
 4. Date de votre visite.
    - 29 janvier 2026
-   - 
+  
 <br>
 
 5. Titre de l'oeuvre
@@ -21,3 +21,12 @@
 ![photo en 500x375](./photo/oeuvre_photo.jpg) ![photo en 500x375](./photo/oeuvre_vue_cote.jpg)
 
 <br>
+
+6. Auteur de l'oeuvre
+   - Devenirs partagés: pratiques de l’IA est la compagnie qui a fait un partonariat avec l'UDM. Cependant, l'artiste qui est dans la compagnie qui a fait l'oeuvre se nomme Marion Schneider.
+  
+7. Année de création
+   - 2025
+  
+8. Description de l'oeuvre ou du dispositif
+   ![photo en 500x375](./photo/cartel_vue_complete.jpg)
