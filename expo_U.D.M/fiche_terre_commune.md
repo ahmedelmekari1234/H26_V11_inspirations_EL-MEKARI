@@ -24,13 +24,21 @@
 
 **6. Auteur de l'oeuvre**
    - Devenirs partagés: pratiques de l’IA est la compagnie qui a fait un partonariat avec l'UDM. Cependant, l'artiste qui est dans la compagnie qui a fait l'oeuvre se nomme Marion Schneider.
-  
+
+<br>
+
+
 **7. Année de création**
    - 2025
-  
+
+<br>
+
+
 **8. Description de l'oeuvre ou du dispositif**
    ![photo 500x375](./photo/cartel_vue_complete.jpg)
    - Le point de cette oeuvre est qu'elle va réussir à capter les ondes alphas du cerveau grâce à un bandeau que nous accrochons sur notre frond pour aider à générer une image générative faite par l'IA. Tout cela est pour faire un        sorte de lien entre humains et machines.
+
+<br>
 
 **9. Type d'installation (contemplative, immersive, interactive)**
    - C'est une installation immersive. Nous nous posons sur un le banc qui a été montré sur les photos précédentes par rapport à la vue d'ensemble de l'oeuvre.
