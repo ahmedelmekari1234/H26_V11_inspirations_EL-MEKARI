@@ -52,9 +52,13 @@
  **10 Fonction du dispositif multimédia** 
  - Après que nous nous sommes assis(eS), nous allons prêter attention à cette rangé de ligne. Chaque ligne est une onde alpha du cerveau qui transmet, donc à la grande machine derrière les besoins nécéssaires pour faire ses calculs
    ![photo 500x375](./photo/vue_machine_ondes.jpg)
- - La photo si-dessous vous montra la partie enrichissante de cette exposition. En effet, cette machine va envoyer les ondes alphas du cerveau à la machine pour qu'elle les lisent.  
+
+   <br>
+   
+ - La photo si-dessous vous montra la partie enrichissante de cette exposition. En effet, cette machine va envoyer les ondes alphas du cerveau à la machine pour qu'elle les lisent. Le systèeme est en constant travail.
     ![photo 500x375](./photo/vue_processus_machine.jpg)
 
 
-
+**11 Mise en espace**
+    ![photo 500x375](./photo/croquis.jpg)
 
