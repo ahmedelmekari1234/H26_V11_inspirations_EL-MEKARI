@@ -10,4 +10,12 @@
 
 3. Type d'exposition
    - temporaire et intéractive. En effet, l'exposition montre des produits faitent par des artistes de la saison du printemps. Elle est inéractive, car je peux intéragir avec l'art. L'art est une image projeté par une Ai qui vient des ondes d'un petit casque qui se met sur la tête.
-     
+  
+4. Date de votre visite.
+   - 29 janvier 2026
+
+5. Titre de l'oeuvre
+   -*Terre Commune*
+![photo en 500x375](./photo/oeuvre_photo.jpg) ![photo en 500x375](./photo/oeuvre_vue_cote.jpg)
+   
+   
