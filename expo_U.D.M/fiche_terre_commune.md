@@ -71,7 +71,7 @@
 
 **12. Composantes et techniques**
  -  Voici une vue complète de chaque pièece de l'oeuvre.
-    ![photo](./photo/dispositif_site_schneidermarion_a.jpg)
+    ![photo](./photo/dispositif_site_schneidermarion_a.jpg) 
     ![photo](./photo/dispositif_site_schneidermarion_casque_eeg.jpg)
     ![photo](./photo/dispositif_site_schneidermarion_electronique.jpg)
     ![photo](./photo/dispositif_site_schneidermarion_laptop_banc.jpg)
@@ -80,4 +80,5 @@
 <br>
 
 **13 Éléments nécessaires à la mise en exposition** 
+<br>
     ![photo](./photo/vue_ensemble_oeuvre.jpg)
