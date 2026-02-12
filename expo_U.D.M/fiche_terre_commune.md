@@ -18,7 +18,7 @@
 
 5. Titre de l'oeuvre
    -*Terre Commune*
-![photo en 500x375](./photo/oeuvre_photo.jpg) ![photo en 500x375](./photo/oeuvre_vue_cote.jpg)
+![photo 500x375](./photo/oeuvre_photo.jpg) ![photo 500x375](./photo/oeuvre_vue_cote.jpg)
 
 <br>
 
@@ -29,4 +29,4 @@
    - 2025
   
 8. Description de l'oeuvre ou du dispositif
-   ![photo en 500x375](./photo/cartel_vue_complete.jpg)
+   ![photo 500x375](./photo/cartel_vue_complete.jpg)
