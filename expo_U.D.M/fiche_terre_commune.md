@@ -100,4 +100,9 @@
    ![photo](./photo/capteur_eeg_interieur.jpg)
   
 **16. Aspect que vous ne souhaiteriez pas retenir pour vos propres créations ou que vous feriez autrement**
- - Je pense que je retiendrai l'absence de résultat. Oui, l'éxposition était très bonne. Cependant, il est vrai que nous pouvons trouver un certain vide dans les résultats très vite. Cela peut poser un problème assez grand. 
+ - Je pense que je retiendrai l'absence de résultat. Oui, l'éxposition était très bonne. Cependant, il est vrai que nous pouvons trouver un certain vide dans les résultats très vite. Cela peut poser un problème assez grand. Comme vous avez vous tout au long du texte et des images. La représentation visuel était pratiquement la même. Je pense que nous pourrions trouver une solution comme ajouter ou coder une autre I.A qui permet de donner un point noir montrant une zone assez différente des autres zones des ondes alphas.
+
+<br>
+
+**17. Références.**
+Le seul site de référence qui a été utilisé est celui là: <a href="https://schneidermarion.net">Références</a> 
