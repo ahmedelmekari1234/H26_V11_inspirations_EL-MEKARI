@@ -60,5 +60,6 @@
 
 
 **11 Mise en espace**
-    ![photo 500x375](./photo/croquis.jpg)
+    ![photo](./photo/croquis.jpg)
+    
 
