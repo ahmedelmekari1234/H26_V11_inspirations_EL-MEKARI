@@ -39,7 +39,7 @@
 <br>
 
    La photo si-dessous vous montra la partie enrichissante de cette exposition
-
+    ![photo 500x375](./photo/vue_machine_ondes.jpg)
    
 
 
