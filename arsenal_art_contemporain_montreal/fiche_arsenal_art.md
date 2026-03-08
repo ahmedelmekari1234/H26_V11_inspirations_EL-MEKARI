@@ -11,3 +11,6 @@ Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 <br>
 ![Photo fait par un des employé sur place de Ahmed El-Mekari devant l'affiche](./photo/arsenal_affiche_photo_soi.png)
 <blockquote>La photo a été prise par un des employé.</blockquote>
+
+<br>
+**Type d'expostion**: C'est une exposition de type permanente et intérieure. La date de début était en Janvier 2026 et il n'y a pas d'informations sur une dâte de fermeture. 
