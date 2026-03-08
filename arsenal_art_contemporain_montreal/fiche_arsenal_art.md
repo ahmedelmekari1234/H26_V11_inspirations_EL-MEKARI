@@ -9,4 +9,5 @@ Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des 
 **Lieu de mise en exposition**:
 Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 <br>
-![Photo fait par un des employé sur place](./photo/arsenal_affiche_photo_soi.png)
+![Photo fait par un des employé sur place de Ahmed El-Mekari devant l'affiche](./photo/arsenal_affiche_photo_soi.png)
+<blockquote>La photo a été prise par un des employé.</blockquote>
