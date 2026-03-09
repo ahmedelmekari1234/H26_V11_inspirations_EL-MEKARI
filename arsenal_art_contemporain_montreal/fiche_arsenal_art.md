@@ -20,3 +20,13 @@ Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 
 ## Type d'expostion: 
 C'est une exposition de type permanente et intérieure. La date de début était en Janvier 2026 et il n'y a pas d'informations sur une dâte de fermeture. 
+
+<br>
+
+## Date de la visite:
+19 Février 2026:
+
+<br>
+
+Le dispoitif est un casque RV fait par Meta. Comme l'indique sur le site suivant dans la section de descrpition de l'experience. 
+
