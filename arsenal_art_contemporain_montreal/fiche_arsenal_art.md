@@ -30,3 +30,7 @@ C'est une exposition de type permanente et intérieure. La date de début était
 
 Le dispoitif est un casque RV fait par Meta. Comme l'indique sur le site suivant dans la section de descrpition de l'experience. 
 
+<br>
+
+## Nom de l'artsite: 
+La compagnie derrière cette oeuvre se nomme *Excurio*. 
