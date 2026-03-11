@@ -94,3 +94,12 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 ![Photo d'un des murs de l'exposition faite par Ahmed El-Mekari](./photo/mur_pour_exposition.png)
 <blockquote>Photo prise par Ahmed El-Mekari.</blockquote>
+
+<br>
+
+## 13. Expérience vécue:
+- Je n'ai pas pu accéder à une photo personelle dans l'exposition, mais comme vous le voyez si-dessous, je suis avec le casque R.V. L'expérience véue était sublime. Tout était dans les yeux. Chaque personne a eu son propre personnage.
+
+<br>
+
+![Photo d'un des murs de l'exposition faite par une des employées d'Ahmed El-Mekari](./photo/experience_vecue.png)
