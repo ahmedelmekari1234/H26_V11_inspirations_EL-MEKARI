@@ -68,9 +68,8 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ## Composantes techniques 
-1. Nous pouvons voir une vue d'ensemble du casque. Nous posons nos yeux sur la partie montrée.
-<br>
+Nous pouvons voir une vue d'ensemble du casque. 
 ![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr_vue_ensemble.png)
 
-3. Nous pouvons voir ensuite une vue de coté
+Nous pouvons voir ensuite une vue de coté. 
 ![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr_vue_cote.png)
