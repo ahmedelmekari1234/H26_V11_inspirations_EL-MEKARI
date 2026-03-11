@@ -102,4 +102,4 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-![Photo d'un des murs de l'exposition faite par une des employées d'Ahmed El-Mekari](./photo/experience_vecue.png)
+![Photo d'un des murs de l'exposition faite par une des employées d'Ahmed El-Mekari](./photo/experience_utilisateur.png)
