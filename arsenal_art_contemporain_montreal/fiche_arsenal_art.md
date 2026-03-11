@@ -76,5 +76,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 ### Nous pouvons voir ensuite une vue de coté. 
 ![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr_vue_cote.png)
 
+<br>
+
 ### Voici une photo d'une position rapprochée oû nous posons nos yeux.
 ![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr.png)
