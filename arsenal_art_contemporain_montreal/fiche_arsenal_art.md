@@ -72,17 +72,17 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ### Nous pouvons voir une vue d'ensemble du casque. 
-![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr_vue_ensemble.png)
+![Photo du casque R.V fait par Ahmed El-Mekari](./photo/casque_vr_vue_ensemble.png)
 
 <br>
 
 ### Nous pouvons voir ensuite une vue de coté. 
-![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr_vue_cote.png)
+![Photo du casque R.V fait par Ahmed El-Mekari](./photo/casque_vr_vue_cote.png)
 
 <br>
 
 ### Voici une photo d'une position rapprochée oû nous posons nos yeux.
-![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr.png)
+![Photo du casque R.V fait par Ahmed El-Mekari](./photo/casque_vr.png)
 
 <br>
 
@@ -90,4 +90,4 @@ Le projet a commencé en 2019. La finale était en 2022.
 - Les murs comme dans la photo si dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V
 
 <br>
-![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/mur_pour_expositon.png)
+![Photo du casque R.V fait par Ahmed El-Mekari](./photo/mur_pour_expositon.png)
