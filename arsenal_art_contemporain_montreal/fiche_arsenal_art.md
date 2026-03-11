@@ -106,5 +106,10 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-## Ce qui m'a plu:
-- Ce qui m'a plu est l'expérience en soi. J'étais mis dans le passé pour voir les vertiges de la *Cathédrale de Notre-Dame de Paris* avant et après l'incendie en 2019. De plus, l'expérience offrait un travail de perspective fonctionnel. En effet, la perspective de quand nous montons les escaliers ou étions dans un ascenseur m'a donné l'effet d'être vraiment présent dans la vraie vie et non dans un monde virtuel. Enfin, le personnel était gentil et accueillant. 
+## 14. Ce qui m'a plu:
+- Ce qui m'a plu est l'expérience en soi. J'étais mis dans le passé pour voir les vertiges de la *Cathédrale de Notre-Dame de Paris* avant et après l'incendie en 2019. De plus, l'expérience offrait un travail de perspective fonctionnel. En effet, la perspective de quand nous montons les escaliers ou étions dans un ascenseur m'a donné l'effet d'être vraiment présent dans la vraie vie et non dans un monde virtuel. Enfin, le personnel était gentil et accueillant.
+
+<br>
+
+## 15. Aspect à retenir pour ne pas faire d'erreurs dans mes propres expositions dans le futur:
+- L'accessibilité aux personnes portant des lunettes est très faible. En effet, c'est dommage qu'il faille ajuster le casque à chaque fois et même en ajustant le casque. Nous pouvons tout de même ne pas avoir un confort appréciable. Une personne qui possède des lunnettes doit avoir le droit d'aimer une activité sans trop qu'il y a un conflit.
