@@ -86,11 +86,11 @@ Le projet a commencé en 2019. La finale était en 2022.
 ### Voici une photo d'une position rapprochée oû nous posons nos yeux.
 ![Photo du casque R.V faite par Ahmed El-Mekari.](./photo/casque_vr.png)
 
-<blockquote>Note: les 3 photos si-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
+<blockquote>Note: les 3 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
 <br>
 
 ## 12. Éléments nécéssaires à la mise en exposition:
-- Les murs comme dans la photo si-dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V.
+- Les murs comme dans la photo ci-dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V.
 
 <br>
 
@@ -100,7 +100,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ## 13. Expérience vécue:
-- Je n'ai pas pu accéder à une photo personelle dans l'exposition, mais comme vous le voyez si-dessous, je suis avec le casque R.V. L'expérience véue était sublime. Tout était dans les yeux. Chaque personne a eu son propre personnage.
+- Je n'ai pas pu accéder à une photo personelle dans l'exposition, mais comme vous le voyez ci-dessous, je suis avec le casque R.V. L'expérience véue était sublime. Tout était dans les yeux. Chaque personne a eu son propre personnage.
 
 <br>
 
