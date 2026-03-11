@@ -1,1 +1,1 @@
-# Les photos présentes sont présentes dans les fichiers ci-dessus.
+# Les photos utilisées sont présentes dans les fichiers ci-dessus.
