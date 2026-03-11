@@ -48,3 +48,8 @@ Le projet a commencé en 2019. La finale était en 2022.
 [Référence](https://eternelle-notre-dame.ca)
  </blockquote>
 
+ <br>
+
+## Vue d'ensemble:
+![Photo fait par Manon Michel](./photo/vue_ensemble_oeuvre.png)
+
