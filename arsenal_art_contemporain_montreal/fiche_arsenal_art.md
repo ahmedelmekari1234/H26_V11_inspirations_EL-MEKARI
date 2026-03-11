@@ -57,5 +57,6 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ## Fonction du dispositif Multimédia 
-![Photo fait par Manon Michel](./photo/vue_ensemble_oeuvre.png)
-<blockquote>La photo a été prise par Manon Michel</blockquote>
+![Photo fait par Manon Michel](./photo/casque_vr.png)
+<blockquote>La photo a été prise par Ahmed El-Mekari</blockquote>
+- Comme vous pouvez le voir, l'appareil est un casque R.V appartenant à la marque Vive. Le casque est fonctionne comme un casque R.V normal. Nous le mettons et nous pouvons voir des images. Toute la beauté vient dans la programation à l'intérieur de ce casque. Le casque possède de mulitples capteurs nous permettant de voir les autres participants. Le code se fait tout à l'écran. Le 95% de l'oeuvre est dans la machinerie et la programmation. Toutes les voix ont étées programmées pour donner un goût à l'oeuvre. La magie commence quand nos yeux se collent à la machine.
