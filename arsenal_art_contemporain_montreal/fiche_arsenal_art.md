@@ -54,4 +54,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 ![Photo fait par Manon Michel](./photo/vue_ensemble_oeuvre.png)
 <blockquote>Photo prise par Manon Michel du Site CNEWS<sup>2</sup></blockquote>
 
+<br>
+
+## Fonction du dispositif Multimédia 
 
