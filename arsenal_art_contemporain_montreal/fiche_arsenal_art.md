@@ -35,8 +35,12 @@ Le dispoitif est un casque RV fait par Meta. Comme l'indique sur le site suivant
 ## Nom de l'artsite: 
 La compagnie derrière cette oeuvre se nomme *Excurio*. 
 
+<br>
+
 ## Année de réalisation:
 Le projet a commencé en 2019. La finale était en 2022.
+
+<br>
 
 ## Descrpition de l'oeuvre:
 *Entrez dans la cathédrale la plus emblématique de France et explorez-là comme jamais auparavant. Éternelle Notre-Dame vous transporte à travers la cathédrale Notre-Dame de Paris pour retracer 850 ans d’histoire. Vous découvrirez le rôle qu’elle a joué dans les triomphes, les épreuves et les transformations qui ont contribué à façonner la ville de Paris que nous connaissons aujourd’hui. Soyez témoin du savoir-faire exceptionnel déployé depuis sa construction médiévale jusqu'à sa restauration actuelle suite à l’incendie dévastateur de 2019. Découvrez les artisans et les figures historiques qui ont contribué à bâtir son héritage pour en faire l’une des silhouettes urbaines les plus emblématiques du monde. Parcourez les lieux où des générations se sont rassemblées et ressentez l’esprit intemporel qui fait de Notre-Dame de Paris un monument vivant de foi, d’art et de résilience.*
