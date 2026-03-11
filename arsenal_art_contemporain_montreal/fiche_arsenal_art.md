@@ -103,3 +103,8 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ![Photo d'un des murs de l'exposition faite par une des employées d'Ahmed El-Mekari](./photo/experience_utilisateur.png)
+
+<br>
+
+## Ce qui m'a plu:
+- Ce qui m'a plu est l'expérience en soi. J'étais mis dans le passé pour voir les vertiges de la *Cathédrale de Notre-Dame de Paris* avant et après l'incendie en 2019. De plus, l'expérience offrait un travail de perspective fonctionnel. En effet, la perspective de quand nous montons les escaliers ou étions dans un ascenseur m'a donné l'effet d'être vraiment présent dans la vraie vie et non dans un monde virtuel. Enfin, le personnel était gentil et accueillant. 
