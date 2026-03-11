@@ -2,7 +2,7 @@
 
 <br>
 
-## Nom de l'exposition ou de l'évènement: 
+## 1. Nom de l'exposition ou de l'évènement: 
 Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des Arts de Montréal.
 <br>
 ![Photo fait par Ahmed El-Mekari de l'affiche](./photo/arsenal__art_affiche.png)
@@ -10,7 +10,7 @@ Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des 
 
 <br>
 
-## Lieu de mise en exposition:
+## 2. Lieu de mise en exposition:
 Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 <br>
 ![Photo fait par un des employé sur place de Ahmed El-Mekari devant l'affiche](./photo/arsenal_affiche_photo_soi.png)
@@ -18,12 +18,12 @@ Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 
 <br>
 
-## Type d'expostion: 
+## 3. Type d'expostion: 
 C'est une exposition de type permanente et intérieure. La date de début était en Janvier 2026 et il n'y a pas d'informations sur une dâte de fermeture. 
 
 <br>
 
-## Date de la visite:
+## 4. Date de la visite:
 19 Février 2026:
 
 <br>
@@ -32,17 +32,17 @@ Le dispoitif est un casque RV fait par Meta. Comme l'indique sur le site suivant
 
 <br>
 
-## Nom de l'artsite: 
+## 5. Nom de l'artsite: 
 La compagnie derrière cette oeuvre se nomme *Excurio*. 
 
 <br>
 
-## Année de réalisation:
+## 6. Année de réalisation:
 Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-## Descrpition de l'oeuvre:
+## 7. Descrpition de l'oeuvre:
 *Entrez dans la cathédrale la plus emblématique de France et explorez-là comme jamais auparavant. Éternelle Notre-Dame vous transporte à travers la cathédrale Notre-Dame de Paris pour retracer 850 ans d’histoire. Vous découvrirez le rôle qu’elle a joué dans les triomphes, les épreuves et les transformations qui ont contribué à façonner la ville de Paris que nous connaissons aujourd’hui. Soyez témoin du savoir-faire exceptionnel déployé depuis sa construction médiévale jusqu'à sa restauration actuelle suite à l’incendie dévastateur de 2019. Découvrez les artisans et les figures historiques qui ont contribué à bâtir son héritage pour en faire l’une des silhouettes urbaines les plus emblématiques du monde. Parcourez les lieux où des générations se sont rassemblées et ressentez l’esprit intemporel qui fait de Notre-Dame de Paris un monument vivant de foi, d’art et de résilience.*
 <blockquote>Le texte a été pris du site officiel de la compagnie qui a fabriqué l'experience RV.
 [Référence](https://eternelle-notre-dame.ca)<sup>1</sup>
@@ -50,24 +50,24 @@ Le projet a commencé en 2019. La finale était en 2022.
 
  <br>
 
-## Vue d'ensemble:
+## 8. Vue d'ensemble:
 ![Photo fait par Manon Michel](./photo/vue_ensemble_oeuvre.png)
 <blockquote>Photo prise par Manon Michel du Site CNEWS<sup>2</sup></blockquote>
 
 <br>
 
-## Fonction du dispositif Multimédia 
+## 9. Fonction du dispositif Multimédia 
 
 <blockquote>La photo a été prise par Ahmed El-Mekari</blockquote>
 - Comme vous pouvez le voir, l'appareil est un casque R.V appartenant à la marque Vive. Le casque est fonctionne comme un casque R.V normal. Nous le mettons et nous pouvons voir des images. Toute la beauté vient dans la programation à l'intérieur de ce casque. Le casque possède de mulitples capteurs nous permettant de voir les autres participants. Le code se fait tout à l'écran. Le 95% de l'oeuvre est dans la machinerie et la programmation. Toutes les voix ont étées programmées pour donner un goût à l'oeuvre. La magie commence quand nos yeux se collent à la machine. Le casque R.V possède aussi des haut-parleurs pour avoir une écoute plus satisfaisante. 
 
 <br>
 
-## Mise en espace 
+## 10. Mise en espace 
 
 <br>
 
-## Composantes techniques:
+## 11. Composantes techniques:
 
 <br>
 
@@ -86,4 +86,4 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-## Éléments nécéssaires à la mise en exposition:
+## 12. Éléments nécéssaires à la mise en exposition:
