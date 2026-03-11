@@ -80,3 +80,4 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 ### Voici une photo d'une position rapprochée oû nous posons nos yeux.
 ![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/casque_vr.png)
+
