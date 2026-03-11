@@ -87,3 +87,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ## 12. Éléments nécéssaires à la mise en exposition:
+- Les murs comme dans la photo si dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V
+
+<br>
+![Photo du casque R.V fait par Ahmed El-Mekaril](./photo/mur_pour_expositon.png)
