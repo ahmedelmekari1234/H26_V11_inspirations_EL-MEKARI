@@ -59,7 +59,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 ## 9. Fonction du dispositif Multimédia 
 
 <blockquote>La photo a été prise par Ahmed El-Mekari</blockquote>
-- Comme vous pouvez le voir, l'appareil est un casque R.V appartenant à la marque Vive. Le casque est fonctionne comme un casque R.V normal. Nous le mettons et nous pouvons voir des images. Toute la beauté vient dans la programation à l'intérieur de ce casque. Le casque possède de mulitples capteurs nous permettant de voir les autres participants. Le code se fait tout à l'écran. Le 95% de l'oeuvre est dans la machinerie et la programmation. Toutes les voix ont étées programmées pour donner un goût à l'oeuvre. La magie commence quand nos yeux se collent à la machine. Le casque R.V possède aussi des haut-parleurs pour avoir une écoute plus satisfaisante. 
+- Comme vous pouvez le voir, l'appareil est un casque R.V. appartenant à la marque Vive. Le casque fonctionne comme un casque R.V. normal. Nous le mettons et nous pouvons voir des images. Toute la beauté vient de la programmation à l'intérieur de ce casque. Le casque possède de mulitples capteurs nous permettant de voir les autres participants. Le code se fait tout à l'écran. 95 % de l'œuvre est dans la machinerie et la programmation. Toutes les voix ont été programmées pour donner un goût à l'œuvre. La magie commence quand nos yeux se collent à la machine. Le casque R.V possède aussi des haut-parleurs pour avoir une écoute plus satisfaisante. 
 
 <br>
 
@@ -88,7 +88,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ## 12. Éléments nécéssaires à la mise en exposition:
-- Les murs comme dans la photo si dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V
+- Les murs comme dans la photo si-dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V.
 
 <br>
 
