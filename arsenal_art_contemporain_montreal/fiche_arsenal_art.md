@@ -5,7 +5,7 @@
 ## 1. Nom de l'exposition ou de l'évènement: 
 Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des Arts de Montréal.
 <br>
-![Photo fait par Ahmed El-Mekari de l'affiche](./photo/arsenal__art_affiche.png)
+![Photo faite par Ahmed El-Mekari de l'affiche](./photo/arsenal__art_affiche.png)
 <blockquote>La photo a été prise par Ahmed El-Mekari.</blockquote>
 
 <br>
@@ -13,7 +13,7 @@ Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des 
 ## 2. Lieu de mise en exposition:
 Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 <br>
-![Photo fait par un des employé sur place de Ahmed El-Mekari devant l'affiche](./photo/arsenal_affiche_photo_soi.png)
+![Photo faite par un des employé sur place de Ahmed El-Mekari devant l'affiche](./photo/arsenal_affiche_photo_soi.png)
 <blockquote>La photo a été prise par un des employé.</blockquote>
 
 <br>
@@ -51,7 +51,7 @@ Le projet a commencé en 2019. La finale était en 2022.
  <br>
 
 ## 8. Vue d'ensemble:
-![Photo fait par Manon Michel](./photo/vue_ensemble_oeuvre.png)
+![Photo faite par Manon Michel](./photo/vue_ensemble_oeuvre.png)
 <blockquote>Photo prise par Manon Michel du Site CNEWS<sup>2</sup></blockquote>
 
 <br>
@@ -72,17 +72,17 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ### Nous pouvons voir une vue d'ensemble du casque. 
-![Photo du casque R.V fait par Ahmed El-Mekari](./photo/casque_vr_vue_ensemble.png)
+![Photo du casque R.V faite par Ahmed El-Mekari](./photo/casque_vr_vue_ensemble.png)
 
 <br>
 
 ### Nous pouvons voir ensuite une vue de coté. 
-![Photo du casque R.V fait par Ahmed El-Mekari](./photo/casque_vr_vue_cote.png)
+![Photo du casque R.V faite par Ahmed El-Mekari](./photo/casque_vr_vue_cote.png)
 
 <br>
 
 ### Voici une photo d'une position rapprochée oû nous posons nos yeux.
-![Photo du casque R.V fait par Ahmed El-Mekari](./photo/casque_vr.png)
+![Photo du casque R.V faite par Ahmed El-Mekari](./photo/casque_vr.png)
 
 <br>
 
@@ -90,4 +90,5 @@ Le projet a commencé en 2019. La finale était en 2022.
 - Les murs comme dans la photo si dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V
 
 <br>
-![Photo du casque R.V fait par Ahmed El-Mekari](./photo/mur_pour_expositon.png)
+
+![Photo d'un des murs de l'exposition faite par Ahmed El-Mekari](./photo/mur_pour_exposition.png)
