@@ -52,7 +52,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 ## 8. Vue d'ensemble:
 ![Photo faite par Manon Michel](./photo/vue_ensemble_oeuvre.png)
-<blockquote>Photo prise par Manon Michel du Site CNEWS<sup>2</sup></blockquote>
+<blockquote>Photo prise par Manon Michel du Site CNEWS<sup>2</sup>.</blockquote>
 
 <br>
 
@@ -84,6 +84,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 ### Voici une photo d'une position rapprochée oû nous posons nos yeux.
 ![Photo du casque R.V faite par Ahmed El-Mekari](./photo/casque_vr.png)
 
+<blockquote>Note: les 3 photos si-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
 <br>
 
 ## 12. Éléments nécéssaires à la mise en exposition:
@@ -92,4 +93,4 @@ Le projet a commencé en 2019. La finale était en 2022.
 <br>
 
 ![Photo d'un des murs de l'exposition faite par Ahmed El-Mekari](./photo/mur_pour_exposition.png)
-<blockquote>Photo prise par Ahmed El-Mekari</blockquote>
+<blockquote>Photo prise par Ahmed El-Mekari.</blockquote>
