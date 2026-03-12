@@ -54,7 +54,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 ## 8. Vue d'ensemble:
 ![Photo faite par Manon Michel](./photo/vue_ensemble_oeuvre.png)
-<blockquote>Photo du  site de l'exposition de l'intérieur prise par Manon Michel du Site CNEWS<sup>2</sup>.</blockquote>
+<blockquote>Photo du site de l'exposition de l'intérieur prise par Manon Michel du Site CNEWS<sup>2</sup>.</blockquote>
 
 <br>
 
