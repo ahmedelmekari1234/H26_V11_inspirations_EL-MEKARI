@@ -84,8 +84,8 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-![Photo d'un dx.](./photo/mur_pour_exposition.png)
-<blockquote>Photo prise par Ahmed El-Mekari.</blockquote>
+![Photo d'un des murs de l'exposition.](./photo/mur_pour_exposition.png)
+<blockquote>Photo d'un des murs de l'exposition prise par Ahmed El-Mekari.</blockquote>
 
 <br>
 
