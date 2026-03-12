@@ -7,7 +7,7 @@ Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des 
 <br>
 ![Photo faite par Ahmed El-Mekari de l'affiche.](./photo/arsenal__art_affiche.png) 
 
-<img src="./photo/arsenal_affiche_photo_soi.png" width:200>
+
 
 ## 2. Lieu de mise en exposition:
 ![Photo faite par un des employé sur place de Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
