@@ -84,7 +84,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-![Photo d'un des murs de l'exposition.](./photo/mur_pour_exposition.png)
+![Photo d'un des murs de l'exposition.](arsenal_art_contemporain_montreal/photo/casque_vr_vue_ensemble.png)
 <blockquote>Photo d'un des murs de l'exposition prise par Ahmed El-Mekari.</blockquote>
 
 <br>
