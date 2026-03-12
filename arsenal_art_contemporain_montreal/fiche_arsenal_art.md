@@ -3,9 +3,9 @@
 <br>
 
 ## 1. Nom de l'exposition ou de l'évènement: 
-Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des Arts de Montréal.
+Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des Arts de Montréal. Sur la droite, Je suis devant une même affiche.
 <br>
-![Photo faite par Ahmed El-Mekari de l'affiche.](./photo/arsenal__art_affiche.png)
+![Photo faite par Ahmed El-Mekari de l'affiche.](./photo/arsenal__art_affiche.png) ![Photo faite par un des employé sur place de Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
 <blockquote>La photo de la fiche a été prise par Ahmed El-Mekari.</blockquote>
 
 <br>
