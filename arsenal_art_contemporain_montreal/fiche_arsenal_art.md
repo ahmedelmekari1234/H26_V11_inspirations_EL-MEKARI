@@ -6,7 +6,7 @@
 Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des Arts de Montréal.
 <br>
 ![Photo faite par Ahmed El-Mekari de l'affiche.](./photo/arsenal__art_affiche.png)
-<blockquote>La photo a été prise par Ahmed El-Mekari.</blockquote>
+<blockquote>La photo de la fiche a été prise par Ahmed El-Mekari.</blockquote>
 
 <br>
 
@@ -14,7 +14,7 @@ Le nom de l'exposition se nomme *Éternelle Notre-Dame* situé à l'Arsenal des 
 Le lieu de l'exposition est situé à l'Arsenal des Arts de Montréal.
 <br>
 ![Photo faite par un des employé sur place de Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
-<blockquote>La photo a été prise par un des employé.</blockquote>
+<blockquote>Ma propre personne en photo a été prise par un des employé.</blockquote>
 
 <br>
 
@@ -53,7 +53,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 ## 8. Vue d'ensemble:
 ![Photo faite par Manon Michel](./photo/vue_ensemble_oeuvre.png)
-<blockquote>Photo prise par Manon Michel du Site CNEWS<sup>2</sup>.</blockquote>
+<blockquote>Photo du  site de l'exposition de l'intérieur prise par Manon Michel du Site CNEWS<sup>2</sup>.</blockquote>
 
 <br>
 
