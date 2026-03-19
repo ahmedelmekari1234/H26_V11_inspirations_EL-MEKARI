@@ -13,4 +13,5 @@
   <li>Rafael Angon Dube.</li>
 </ul>
 
-
+### Installation en cours (vue ensemble) 
+![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](./expo_finissants/photo/A.E.F_vue_ensemble.png).
