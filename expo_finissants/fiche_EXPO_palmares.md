@@ -14,4 +14,4 @@
 </ul>
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo/mystere.png).
+![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo/a_e_f_vue_ensemble.png).
