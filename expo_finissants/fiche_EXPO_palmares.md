@@ -14,7 +14,7 @@
 </ul>
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo/a_e_f_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo_palmares/a_e_f_vue_ensemble.png).
 
 
 ### Ce que je ressens en expirémentant chacune des installations.
@@ -31,4 +31,4 @@
 </ul>
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo/a_e_f_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo_palmares/a_e_f_vue_ensemble.png).
