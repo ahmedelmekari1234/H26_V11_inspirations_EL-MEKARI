@@ -29,11 +29,13 @@
 
 
 
-## 4<sup>ème</sup> place: *Océan rouge*.
+## 4<sup>ème</sup> place: *Symbiose*
 ### Noms des créateurs et créatices:
 <ul>
-  <li>Amira Tounekti.</li>
-  <li>Kristy Moussaly.</li>
+<li>Yannick Chamberland</li>
+<li>Benjamin Ferland</li>
+<li>Ryan Dufault</li>
+<li>Walid Cheour</li>
 </ul>
 
 ### Installation en cours (vue ensemble) 
