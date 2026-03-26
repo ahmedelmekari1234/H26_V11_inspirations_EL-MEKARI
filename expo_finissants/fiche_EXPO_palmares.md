@@ -32,12 +32,9 @@
 ## 5<sup>e</sup> place: Nom de l'oeuvre: *Océan rouge*.
 ### Noms des créateurs et créatices:
 <ul>
-  <li>Alexandre Gendron.</li>
-  <li>Mikael Arseneau.</li>
-  <li>Mathieu Willett.</li>
-  <li>Matis Gharian.i</li>
-  <li>Rafael Angon Dube.</li>
+  <li>Amira Tounekti.</li>
+  <li>Kristy Moussaly.</li>
 </ul>
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo_palmares/a_e_f_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](./expo_finissants/photo_palmares/ocean_rouge_vue_ensemble.png).
