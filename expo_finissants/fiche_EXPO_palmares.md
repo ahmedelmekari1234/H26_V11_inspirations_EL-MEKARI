@@ -42,7 +42,7 @@
 ![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/ocean_rouge_vue_ensemble.png).
 
 **Ce que je ressens en expirémentant chacune des installations**
-- Je ressens un vide. En effetmje trouve que l'idée est original, mais le problème est que le jeu devient ennuyant extrèmement vite! De plus, le jeu se concentre dans un environnement où nous sommes dans notre popre bulle. Je n'aime pas rester coincé. Cependant, l'activité a un sens que je trouve intéressant. Le sens de jouer tout en ayant pour but de faire quelque chose d'utile. Dans ce cas, enlever la pollution. 
+- Je ressens ce qu'un scientifique vie. En effet, je trouve que de jouer avec des potions et la quantité m'a mis dans un costume de scientifique. De plus, j'ai aimé la pensée derrière, car la logique de si nous ajoutons trop d'eau, la recette peut se rater. Un vrai thème scientifique que j'ai exploré dans ma vie dans le passé, mais ce n'est plus mon thème, donc je me dois de mettre cette oeuvre dans la 4<sup>ème</sup> place.
 
 
 <br>
