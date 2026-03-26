@@ -37,4 +37,4 @@
 </ul>
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](./expo_finissants/photo_palmares/ocean_rouge_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/ocean_rouge_vue_ensemble.png).
