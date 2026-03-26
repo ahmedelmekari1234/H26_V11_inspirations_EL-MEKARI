@@ -38,3 +38,6 @@
 
 ### Installation en cours (vue ensemble) 
 ![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/ocean_rouge_vue_ensemble.png).
+
+**Ce que je ressens en expirémentant chacune des installations**
+- Je ressens un vide. En effetmje trouve que l'idée est original, mais le problème est que le jeu devient ennuyant extrèmement vite! De plus, le jeu se concentre dans un environnement où nous sommes dans notre popre bulle. Je n'aime pas rester coincé. Cependant, l'activité a un sens que je trouve intéressant. Le sens de jouer tout en ayant pour but de faire quelque chose d'utile. Dans ce cas, enlever la pollution. 
