@@ -60,7 +60,7 @@
 <br> 
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/ocean_rouge_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/yeux_croisent_vue_ensemble.png).
 
 **Ce que je ressens en expirémentant chacune des installations**
 - Ce que je ressens est une grand curiosité. En effet, je trouve que jouer avec nos yeux pour avoir un effet dans un écran est très intéréssant. De plus, comment l'écran a été fait et toutes les préparations sur l'envoie d'image est incroyable. J'ai été déçu que je devais attendre quelques heures pour avoir mon résultat sur l'écran. Par contre, je ne dénie pas le travail qui m'a donnée envie d'essayer l'exposition.
