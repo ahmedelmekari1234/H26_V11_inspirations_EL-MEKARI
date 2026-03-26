@@ -14,6 +14,10 @@
 </ul>
 
 **Installation en cours (vue ensemble)**
+
+<br>
+
+
 ![Photo de la vue d'ensemble de l'oeuvre *Arbre en Face*](/expo_finissants/photo_palmares/a_e_f_vue_ensemble.png).
 
 
