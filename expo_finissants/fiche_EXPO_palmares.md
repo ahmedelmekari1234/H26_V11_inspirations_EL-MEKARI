@@ -79,7 +79,7 @@
 <br> 
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/ocean_rouge_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/mission_decolage_vue_ensemble.png).
 
 **Ce que je ressens en expirémentant chacune des installations**
 - Ce que je ressens est un énorme plaisir. J'aime tout ce qui est dure. Le jeu tout seul me donne la sensation d'être dans l'espace! J'ai ressenti aussi un sentiment d'alerte. En effet, j'avais une peur de me tromper. Je ne voulais pas que le vaisseau sot brisé! De plus, je trouve ce jeu accessible à deux ou trois. Lorsque j'ai su que je pouvais jouer avec mes amis, j'ai tout de suite aborder le vaisseau. Un grand plaisir!!! 
