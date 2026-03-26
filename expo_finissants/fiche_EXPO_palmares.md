@@ -39,7 +39,7 @@
 </ul>
 
 ### Installation en cours (vue ensemble) 
-![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](./photo_palmares/symbiose_vue_ensemble.png).
+![Photo de la vue d'ensemble de l'oeuvre *Ocean Rouge*](
 
 **Ce que je ressens en expirémentant chacune des installations**
 - Je ressens ce qu'un scientifique vie. En effet, je trouve que de jouer avec des potions et la quantité m'a mis dans un costume de scientifique. De plus, j'ai aimé la pensée derrière, car la logique de si nous ajoutons trop d'eau, la recette peut se rater. Un vrai thème scientifique que j'ai exploré dans ma vie dans le passé, mais ce n'est plus mon thème, donc je me dois de mettre cette oeuvre dans la 4<sup>ème</sup> place.
