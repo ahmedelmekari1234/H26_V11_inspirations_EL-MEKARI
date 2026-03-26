@@ -3,7 +3,7 @@
 <br>
 
 ## NO ordre de préférence 
-## 6<sup>ème</sup> place: *Arbre en Face*.
+## 5<sup>ème</sup> place: *Arbre en Face*.
 ### Noms des créateurs et créatices:
 <ul>
   <li>Alexandre Gendron.</li>
@@ -29,7 +29,7 @@
 
 
 
-## 5<sup>ème</sup> place: *Océan rouge*.
+## 4<sup>ème</sup> place: *Océan rouge*.
 ### Noms des créateurs et créatices:
 <ul>
   <li>Amira Tounekti.</li>
