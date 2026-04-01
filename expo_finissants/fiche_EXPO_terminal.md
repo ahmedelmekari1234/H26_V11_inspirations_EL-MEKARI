@@ -32,14 +32,13 @@ C'est une exposition de type permanente et intérieure. La date de début était
 
 ## 2. Description poussée sur l'exposition: 
 **Nom des créateurs et créatrices:
-<ul
-Émeryk Bélisle
-Elie Daher
-Ting Yung Lu Terry
-Dana Saavedra-Torrano
-Mégane Ranger
-
-La compagnie derrière cette oeuvre se nomme *Excurio*. 
+<ul>
+<li>Émeryk Bélisle</li>
+<li>Elie Daher</li>
+<li>Ting Yung Lu Terry</li>
+<li>Dana Saavedra-Torrano</li>
+<li>Mégane Ranger</li>
+</ul>
 
 <br>
 
