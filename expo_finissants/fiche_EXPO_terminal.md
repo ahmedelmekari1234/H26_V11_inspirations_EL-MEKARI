@@ -9,14 +9,14 @@
 **Nom de l'exposition ou de l'évènement:** 
 <br>
 Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN TIM*.
-![Photo faite par Ahmed El-Mekari de l'affiche.](./photo/arsenal__art_affiche.png) 
+![Photo faite par Ahmed El-Mekari de l'affiche.](./) 
 
 
 <br>
 **Lieu de mise en exposition:**
 -Collège Montmorency. 
-![Photo faite par un des employé sur place de Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
-<blockquote>La photo de la fiche a été prise par Ahmed El-Mekari. Ma propre personne en photo a été prise par un des employé.</blockquote>
+![Photo faite par Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
+<blockquote>La photo de la fiche a été prise par Ahmed El-Mekari.</blockquote>
 
 
 <br>
