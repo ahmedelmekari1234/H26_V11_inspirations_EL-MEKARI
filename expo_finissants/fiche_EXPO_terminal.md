@@ -29,6 +29,7 @@ C'est une exposition de type temporaire et intérieure. La date de début était
 
 
 <br>
+
 **Date de la visite:**
 24 février 2026
 18 mars 2026
