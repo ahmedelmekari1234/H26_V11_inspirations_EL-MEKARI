@@ -13,6 +13,8 @@ Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN T
 
 
 <br>
+
+
 **Lieu de mise en exposition:**
 -Collège Montmorency. 
 ![Photo faite par Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
@@ -20,6 +22,8 @@ Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN T
 
 
 <br>
+
+
 **Type d'expostion:**
 C'est une exposition de type temporaire et intérieure. La date de début était le 24 février 2026. La date de fin est le 18 mars 2026 
 
