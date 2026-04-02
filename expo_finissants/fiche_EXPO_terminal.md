@@ -132,6 +132,6 @@ Le projet a commencé en 2019. La finale était en 2022.
 
 <br>
 
-## 16. Références:
+## Références:
 1. [Dans ce lien vous trouverez le cartel présent dans le point 7 à l'identique.]https://eternelle-notre-dame.ca
 2. [Dans ce lien vous trouverez la photo présent dans le point 8 à l'identique. Je le répète. La photo a été prise par Manon Michel et publiée dans l'article suivant.][https://eternelle-notre-dame.ca](https://www.cnews.fr/culture/2022-01-13/eternelle-notre-dame-teste-et-adore-lexperience-en-realite-virtuelle-1170455)
