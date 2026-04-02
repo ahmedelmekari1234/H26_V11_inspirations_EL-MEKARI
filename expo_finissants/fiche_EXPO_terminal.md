@@ -100,7 +100,7 @@ Le projet a commencé en 2019. La finale était en 2022.
 <blockquote>Note: les 3 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
 <br>
 
-## 3. Section Informations 
+## 4. Section Informations 
 
 **Éléments nécéssaires à la mise en exposition:**
 - Les murs comme dans la photo ci-dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V.
