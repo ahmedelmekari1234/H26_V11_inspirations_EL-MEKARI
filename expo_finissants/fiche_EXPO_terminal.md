@@ -17,7 +17,7 @@ Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN T
 
 **Lieu de mise en exposition:**
 
--Collège Montmorency. 
+- Collège Montmorency. 
 ![Photo faite par Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
 <blockquote>La photo de la fiche a été prise par Ahmed El-Mekari.</blockquote>
 
