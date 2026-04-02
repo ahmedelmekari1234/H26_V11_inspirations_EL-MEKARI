@@ -15,13 +15,6 @@ Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN T
 <br>
 
 
-**Lieu de mise en exposition:**
-
-- Collège Montmorency. 
-![Photo faite par Ahmed El-Mekari devant l'affiche.](./photo/arsenal_affiche_photo_soi.png)
-<blockquote>La photo de la fiche a été prise par Ahmed El-Mekari.</blockquote>
-
-
 <br>
 
 
@@ -75,20 +68,20 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 **Vue d'ensemble:**
 ![Photo faite par Manon Michel](./photo/exposition_photo_manon_michel.png)
-<blockquote>Photo du site de l'exposition de l'intérieur prise par Manon Michel du Site CNEWS<sup>2</sup>.</blockquote>
+<blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensembke.</blockquote>
 
 <br>
 
 **Fonction du dispositif Multimédia**
 
 <blockquote>La photo a été prise par Ahmed El-Mekari</blockquote>
-- Comme vous pouvez le voir, l'appareil est un casque R.V. appartenant à la marque Vive. Le casque fonctionne comme un casque R.V. normal. Nous le mettons et nous pouvons voir des images. Toute la beauté vient de la programmation à l'intérieur de ce casque. Le casque possède de mulitples capteurs nous permettant de voir les autres participants. Le code se fait tout à l'écran. 95 % de l'œuvre est dans la machinerie et la programmation. Toutes les voix ont été programmées pour donner un goût à l'œuvre. La magie commence quand nos yeux se collent à la machine. Le casque R.V possède aussi des haut-parleurs pour avoir une écoute plus satisfaisante. 
 
 <br>
 
 **Mise en espace** 
 
 ![Photo du croquis faite par Ahmed El-Mekari.](./photo/arsenal_croquis.png)
+
 <br>
 
 **Composantes techniques:**
