@@ -67,7 +67,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 ## 3. Descrpition technologique de l'oxposition:
 
 **Vue d'ensemble:**
-![Photo faite par Manon Michel](./expo_finissants/photo_terminal/terminal_vue_ensemble.pngg)
+![Photo faite par Ahmed El-Mekari](./photo_terminal/terminal_vue_ensemble.pngg)
 <blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensembke.</blockquote>
 
 <br>
