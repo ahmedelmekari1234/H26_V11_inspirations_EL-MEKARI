@@ -80,7 +80,8 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 **Mise en espace** 
 
-![Photo du croquis faite par Ahmed El-Mekari.](./photo/arsenal_croquis.png)
+![Photo du croquis faite par Ahmed El-Mekari.](<img width="1143" height="923" alt="image" src="https://github.com/user-attachments/assets/816609ff-ba63-4dcf-ae19-e0a7db618d3a" />
+)
 
 <br>
 
