@@ -68,7 +68,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 **Vue d'ensemble:**
 !Croquis pris du Site Officiel Github de l'équipe de *Terminal*. ](./photo_terminal/terminal_vue_ensemble.png)
-<blockquote>Croquis pris du Site Officiel Github de l'équipe de *Terminal*.https://pythons-5.github.io/Terminal/#/concept/</blockquote>
+<blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensemble.</blockquote>
 
 <br>
 
@@ -81,7 +81,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 **Mise en espace** 
 
 ![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/termninal_scenarimage.png)
-
+<blockquote>Croquis pris du Site Officiel Github de l'équipe de *Terminal*.https://pythons-5.github.io/Terminal/#/concept/</blockquote>
 <br>
 
 **Composantes techniques:**
