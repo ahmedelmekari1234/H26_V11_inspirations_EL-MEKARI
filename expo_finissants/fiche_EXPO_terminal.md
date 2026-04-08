@@ -80,7 +80,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 **Mise en espace** 
 
-![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/terminal_scenarimage.png)
+![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/termninal_scenarimage.png)
 
 <br>
 
