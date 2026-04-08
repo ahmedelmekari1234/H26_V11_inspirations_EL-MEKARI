@@ -67,7 +67,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 ## 3. Descrpition technologique de l'oxposition:
 
 **Vue d'ensemble:**
-!Croquis pris du Site Officiel Github de l'équipe de *Terminal*. ](./photo_terminal/terminal_vue_ensemble.png)
+![Croquis pris du Site Officiel Github de l'équipe de *Terminal*. ](./photo_terminal/terminal_vue_ensemble.png)
 <blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensemble.</blockquote>
 
 <br>
