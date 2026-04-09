@@ -23,6 +23,7 @@ Le lieu de l'exposition est au Centre des Sciences de Montréal. Voilà ume phot
 ![Photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
 <blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
 
+<br>
 
 **Type d'expostion:**
 C'est une exposition de type permanente et intérieure. La date de début était . La date de fin est 
@@ -32,6 +33,7 @@ C'est une exposition de type permanente et intérieure. La date de début était
 
 **Date de la visite:**
 2 Avril 2026.
+
 <br>
 
 
