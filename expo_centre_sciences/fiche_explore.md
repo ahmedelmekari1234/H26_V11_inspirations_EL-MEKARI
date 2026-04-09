@@ -118,7 +118,6 @@ Le titre du dispositif est__.
 
 <br>
 
-![Photo du projecteur et des lumières pour l'exposition a été prise par Ahmed El-Mekari.](./photo/explore_composante_01.png) ![Photo de la boite du code QR pour rejoindre une partie à été prise par Ahmed El-Mekari.](./photo/explore_composante_02.png) 
 
 **Ce qui m'a plu:**
 - Ce qui m'a plu est l'expérience en soi. J'ai trouvé le thème du jeu *snake* amusant. La pensée qui nous faut pour savoir comment réussir le niveau est ce que j'apprécie dans un jeu. Penser à comment faire le niveau tout en ne pas perdre en équipe donne un sentiment de jeu d'entraide. De plus, c'était vraiment pas si problèmatique que je le pensais. Aucun bug apperçu dans mon expérience.
