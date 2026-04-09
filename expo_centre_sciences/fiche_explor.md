@@ -21,7 +21,7 @@ Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 Le lieu de l'exposition est au Centre des Sciences de Montréal.
 
 ![Photo faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
-
+![Photo faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
 
 **Type d'expostion:**
 C'est une exposition de type permanente et intérieure. La date de début était . La date de fin est 
