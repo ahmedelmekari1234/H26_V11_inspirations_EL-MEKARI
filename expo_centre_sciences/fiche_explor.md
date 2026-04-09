@@ -38,6 +38,7 @@ C'est une exposition de type permanente et intérieure. La date de début était
 
 **Titre du dispositif:**
 Le titre du dispositif est 
+![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 
 <br>
 
