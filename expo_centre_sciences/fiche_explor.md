@@ -18,7 +18,7 @@ Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 Le lieu de l'exposition est au Centre des Sciences de Montréal. Voilà ume photo de moi devant l'entrée.
 
 ![Photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
-<blockquote>⁠Rivard-Septimus Alexandre</blockquote>
+<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
 
 
 **Type d'expostion:**
