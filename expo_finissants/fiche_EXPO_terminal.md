@@ -9,7 +9,7 @@
 **Nom de l'exposition ou de l'évènement:** 
 <br>
 Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN TIM*.
-![Photo faite par Ahmed El-Mekari de l'affiche.](./) 
+![Photo faite par Ahmed El-Mekari de l'affiche faite par les finissants.](./photo_terminal/affiche_finissant.png) 
 
 
 <br>
