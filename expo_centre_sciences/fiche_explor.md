@@ -36,7 +36,7 @@ C'est une exposition de type permanente et intérieure. La date de début était
 
 <br>
 
-**Titre du ispositif**
+**Titre du ispositif:**
 Le titre du dispositif est 
 
 <br>
