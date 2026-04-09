@@ -94,9 +94,9 @@ Le titre du dispositif est__.
 
 <br>
 
-### Nous pouvons voir dans la photo horizontal, le projecteur qui permet de projeter l'exposition et vous avez dans la même photo, les lumières pour l'exposition. Dans la seconde photo, vous avez la boite montrée au coin dans la vue d'ensemble qui possède le code QR pour rejoindre une partie.
-![Photo du projecteur et des lumières pour l'exposition a été prise par Ahmed El-Mekari.](./photo/explore_composante_01.png) ![Photo de la boite du code QR pour rejoindre une partie à été prise par Ahmed El-Mekari.](./photo/explore_composante_02.png) 
-<blockquote>Note: les 2 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
+## Nous pouvons 
+![Photo de la tablet faite par Ahmed El-Mekari.](./photo/explore_composante_01.png) ![Photo du panneau d'aide prise par Ahmed El-Mekari.](./photo/explore_composante_02.png) ![Photo de l'écran faite par Ahmed El-Mekari.](./photo/explore_composante_03.png) 
+<blockquote>Note: les 3 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
 <br>
 
 ## 4. Section Informations 
