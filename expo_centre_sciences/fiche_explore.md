@@ -112,21 +112,19 @@ Le titre du dispositif est__.
 
 
 **Expérience vécue:**
-- Je n'ai pas pu accéder à une photo personelle dans l'exposition, maais l'experience était imaginable. Les sofas nous avaient mis dans une ambiance folle!
-<br>
+![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 
 
 <br>
 
 
 **Ce qui m'a plu:**
-- Ce qui m'a plu est l'expérience en soi. J'ai trouvé le thème du jeu *snake* amusant. La pensée qui nous faut pour savoir comment réussir le niveau est ce que j'apprécie dans un jeu. Penser à comment faire le niveau tout en ne pas perdre en équipe donne un sentiment de jeu d'entraide. De plus, c'était vraiment pas si problèmatique que je le pensais. Aucun bug apperçu dans mon expérience.
+- Ce qui m'a plu est l'expérience en soi. J'ai trouvé l'aspect de l'IA qui change le résultat de son art avec dépendament de ce que l'utilisateur choisi. En effet, sur la tablette, il y a 4 choix comme présentés et j'ai adoré comment le résultat changeait si vite. L'oeuvre était facile à comprendre et très passionnante. Enfin, l'aspect que l'IA s'inspire de vraies oeuvres pour sa création me donne un sourire, car dans le monde d'aujourdh'ui, nous sommes à la mercie d'une copie à l'IA.
 
 <br>
 
 **Aspect à retenir pour ne pas faire d'erreurs dans mes propres expositions dans le futur:**
-- Il ne faut pas trop être trop sévère. En effet, dans *Terminal*, si une personne de l'équipe meurt, la partie recommence. Je pense que de laisser la partie aller et rendre la possibilité aux gens de jouer après la manche.
-
+- Rester un peu plus sur le public visé. En effet, l'exposition est amusante pour quelqu'un qui ne comprend pas le concept de l'IA derrière, mais quelqu'un qui comprend l'IA possède un sens différent. De plus, l'IA est un bon outil, mais je trouve que nous aurions pu ajouter une touche d'humain comme un dessin sur un papier et l'IA copie avec le style des artistes qu'elle s'inspire.
 <br>
 
 ## Références:
