@@ -102,7 +102,7 @@ Le titre du dispositif est__.
 ## 4. Section Informations 
 
 **Éléments nécéssaires à la mise en exposition:**
-- L'exposition se crait dans les coulisses. En effet, les cables éléctriques se font tous dans les murs. Un exemple pourrait être dans la photo du QR code montré ci-dessus. Le QR code possède une machine qui elle envoie le signal au reste des dispositifs de l'exposition.
+-L'exposition ne possèbe pas de cable visible. Un énorme talent. Tout est caché sous les petits carrées de métals comme montré dans les aspects technologiques de l'oeuvre. La plaque pour le guide de l'oeuvre possède en dessous d'elle, plusieurs fils.
 
 
 
@@ -112,6 +112,9 @@ Le titre du dispositif est__.
 
 
 **Expérience vécue:**
+
+<br>
+
 ![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 
 
