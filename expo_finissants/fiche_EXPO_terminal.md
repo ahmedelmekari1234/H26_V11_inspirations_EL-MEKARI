@@ -96,18 +96,15 @@ Le projet a commencé en 2925. La finale était en 2026.
 ## 4. Section Informations 
 
 **Éléments nécéssaires à la mise en exposition:**
-- Les murs comme dans la photo ci-dessous, sont importants, car ils donnent un signal lorsque nous sommes dans l'exposition pour nous montrer qu'il y a un mur. Les parties noirs sont remplis de capteurs. Bien sûr, la lumière est très importante, car elle nous donne accès à l'exposition dans le casque R.V.
+- L'exposition se crait dans les coulisses. En effet, les cables éléctriques se font tous dans les murs. Un exemple pourrait être dans la photo du QR code montré ci-dessus. Le QR code possède une machine qui elle envoie le signal au reste des dispositifs de l'exposition.
 
-<br>
 
-![Photo d'un des murs de l'exposition.](./photo/mur_exposition.png)
-<blockquote>Photo d'un des murs de l'exposition prise par Ahmed El-Mekari.</blockquote>
+
 
 <br>
 
 **Expérience vécue:**
-- Je n'ai pas pu accéder à une photo personelle dans l'exposition, mais comme vous le voyez ci-dessous, je suis avec le casque R.V. L'expérience véue était sublime. Tout était dans les yeux. Chaque personne a eu son propre personnage.
-
+- Je n'ai pas pu accéder à une photo personelle dans l'exposition, maais l'experience était imaginable. Les sofas nous avaient mis dans une ambiance folle!
 <br>
 
 ![Photo d'un des murs de l'exposition faite par une des employées d'Ahmed El-Mekari.](./photo/experience_utilisateur.png)
