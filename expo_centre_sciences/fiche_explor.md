@@ -15,9 +15,10 @@ Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 **Lieu de Mise en exposition**
 
 <br>
-Le lieu de l'exposition est au Centre des Sciences de Montréal.
+Le lieu de l'exposition est au Centre des Sciences de Montréal. Voilà ume photo de moi devant l'entrée.
 
-![Photo faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
+![Photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
+<blockquote>⁠Rivard-Septimus Alexandre</blockquote>
 
 
 **Type d'expostion:**
