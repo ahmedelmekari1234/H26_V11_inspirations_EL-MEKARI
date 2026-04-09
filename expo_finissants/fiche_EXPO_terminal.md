@@ -107,21 +107,18 @@ Le projet a commencé en 2925. La finale était en 2026.
 - Je n'ai pas pu accéder à une photo personelle dans l'exposition, maais l'experience était imaginable. Les sofas nous avaient mis dans une ambiance folle!
 <br>
 
-![Photo d'un des murs de l'exposition faite par une des employées d'Ahmed El-Mekari.](./photo/experience_utilisateur.png)
-<blockquote>Ma propre personne en photo a été prise par un des employé.</blockquote>
 
 <br>
 
 **Ce qui m'a plu:**
-- Ce qui m'a plu est l'expérience en soi. J'étais mis dans le passé pour voir les vertiges de la *Cathédrale de Notre-Dame de Paris* avant et après l'incendie en 2019. De plus, l'expérience offrait un travail de perspective fonctionnel. En effet, la perspective de quand nous montons les escaliers ou étions dans un ascenseur m'a donné l'effet d'être vraiment présent dans la vraie vie et non dans un monde virtuel. Enfin, le personnel était gentil et accueillant.
+- Ce qui m'a plu est l'expérience en soi. J'ai trouvé le thème du jeu *snake* amusant. La pensée qui nous faut pour savoir comment réussir le niveau est ce que j'apprécie dans un jeu. Penser à comment faire le niveau tout en ne pas perdre en équipe donne un sentiment de jeu d'entraide. De plus, c'était vraiment pas si problèmatique que je le pensais. Aucun bug apperçu dans mon expérience.
 
 <br>
 
 **Aspect à retenir pour ne pas faire d'erreurs dans mes propres expositions dans le futur:**
-- L'accessibilité aux personnes portant des lunettes est très faible. En effet, c'est dommage qu'il faille ajuster le casque à chaque fois et même en ajustant le casque. Nous pouvons tout de même ne pas avoir un confort appréciable. Une personne qui possède des lunnettes doit avoir le droit d'aimer une activité sans trop qu'il y a un conflit.
+- Il ne faut pas trop être trop sévère. En effet, dans *Terminal*, si une personne de l'équipe meurt, la partie recommence. Je pense que de laisser la partie aller et rendre la possibilité aux gens de jouer après la manche.
 
 <br>
 
 ## Références:
-1. [Dans ce lien vous trouverez le cartel présent dans le point 7 à l'identique.]https://eternelle-notre-dame.ca
-2. [Dans ce lien vous trouverez la photo présent dans le point 8 à l'identique. Je le répète. La photo a été prise par Manon Michel et publiée dans l'article suivant.][https://eternelle-notre-dame.ca](https://www.cnews.fr/culture/2022-01-13/eternelle-notre-dame-teste-et-adore-lexperience-en-realite-virtuelle-1170455)
+1. [Dans ce lien vous trouverez le cartel présent dans le point de la description à l'identique.](https://pythons-5.github.io/Terminal/#/)
