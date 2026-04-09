@@ -94,8 +94,8 @@ Le titre du dispositif est__.
 
 <br>
 
-## Nous pouvons 
-![Photo de la tablet faite par Ahmed El-Mekari.](./photo/explore_composante_01.png) ![Photo du panneau d'aide prise par Ahmed El-Mekari.](./photo/explore_composante_02.png) ![Photo de l'écran faite par Ahmed El-Mekari.](./photo/explore_composante_03.png) 
+## Nous pouvons voir la tablette qui permet de controller quel mode nous voulons voir sur le gros écran (la photo en dessous de la tablette), une pancarte accrochée au sol pour une guide dans l'oeuvre. Enfin, l'écran pour visualer l'art. 
+![Photo de la tablette faite par Ahmed El-Mekari.](./photo/explore_composante_01.png) ![Photo du panneau d'aide prise par Ahmed El-Mekari.](./photo/explore_composante_02.png) ![Photo de l'écran faite par Ahmed El-Mekari.](./photo/explore_composante_03.png) 
 <blockquote>Note: les 3 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
 <br>
 
