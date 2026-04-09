@@ -107,7 +107,7 @@ Le titre du dispositif est__.
 
 
 
-<br>
+<br>(./photo/explore_composante_01.png)
 
 **Expérience vécue:**
 - Je n'ai pas pu accéder à une photo personelle dans l'exposition, maais l'experience était imaginable. Les sofas nous avaient mis dans une ambiance folle!
