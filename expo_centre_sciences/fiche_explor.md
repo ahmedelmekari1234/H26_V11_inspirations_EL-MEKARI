@@ -8,8 +8,8 @@
 
 **Nom de l'exposition ou de l'évènement:** 
 <br>
-Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN TIM*.
-![Photo faite par Ahmed El-Mekari de l'affiche faite par les finissants.](./photo_terminal/affiche_finissant.png) 
+Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
+![Photo faite par Ahmed El-Mekari de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche.png) 
 
 
 <br>
@@ -56,7 +56,7 @@ C'est une exposition de type permanente et intérieure. La date de début était
 
  <br>
 
-## 3. Descrpition technologique de l'oxposition:
+## 3. Descrpition technologique de l'exposition:
 
 **Vue d'ensemble:**
 ![Croquis pris du Site Officiel Github de l'équipe de *Terminal*. ](./photo_terminal/terminal_vue_ensemble.png)
