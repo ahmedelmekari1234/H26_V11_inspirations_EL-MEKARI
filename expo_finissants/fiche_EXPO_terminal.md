@@ -88,9 +88,9 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 <br>
 
-### Nous pouvons voir une vue d'ensemble du casque. Nous pouvons voir ensuite une vue de coté. Enfin, voici une photo d'une position rapprochée où nous posons nos yeux.
-![Photo du casque R.V faite par Ahmed El-Mekari.](./photo/casque_vr_vue_ensemble.png) ![Photo du casque R.V faite par Ahmed El-Mekari.](./photo/casque_vr_vue_cote.png) ![Photo du casque R.V faite par Ahmed El-Mekari.](./photo/casque_vr.png)
-<blockquote>Note: les 3 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
+### Nous pouvons voir dans la photo horizontal, le projecteur qui permet de projeter l'exposition et vous avez dans la même photo, les lumières pour l'exposition. Dans la seconde photo, vous avez la boite montrée au coin dans la vue d'ensemble qui possède le code QR pour rejoindre une partie.
+![Photo du projecteur et des lumières pour l'exposition a été prise par Ahmed El-Mekari.](./photo_terminal/terminal_composantes_01.png) ![Photo de la boite du code QR pour rejoindre une partie à été prise par Ahmed El-Mekari.](./photo_terminal/terminal_composantes_02.png) 
+<blockquote>Note: les 2 photos ci-dessus ont été capturées par Ahmed El-Mekari.</blockquote>
 <br>
 
 ## 4. Section Informations 
