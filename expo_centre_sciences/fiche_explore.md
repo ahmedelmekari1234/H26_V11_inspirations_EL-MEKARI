@@ -59,6 +59,8 @@ Le titre du dispositif est__.
 
 **Année de réalisation:**
 
+1 mai 2019 est la date du début et le 1 mai 2029 est la date de fin de l'ensemble de l'exposition *EXPLORE* qui contient mon oeuvre choisi.
+
 <br>
 
 **Descrpition de l'oeuvre:**
