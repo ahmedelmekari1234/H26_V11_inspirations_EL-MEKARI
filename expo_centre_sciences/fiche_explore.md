@@ -136,4 +136,4 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 <br>
 
 ## Références:
-1. [Dans ce lien vous trouverez le cartel présent dans le point de la description à l'identique.](https://pythons-5.github.io/Terminal/#/)
+1. Dans ce lien vous trouverez le cartel présent dans le point de la description à l'identique. [Cliquez ici!]( https://www.musees.qc.ca/decouvrir-musees/calendrier-expositions/centre-des-sciences-de-montreal-explore-211/)
