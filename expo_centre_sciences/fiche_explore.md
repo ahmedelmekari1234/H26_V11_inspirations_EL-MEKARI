@@ -63,9 +63,12 @@ Le titre du dispositif est__.
 
 **Descrpition de l'oeuvre:**
 - Cartel présent sur le site officiel. 
-*TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque joueur contrôle un opérateur, grâce à la manette sur leur téléphone, qui essaie de trouver l'accès au vieux réseau internet afin de restaurer les données qui ont été corrompues par une cyberattaque orchestrée par un fameux pirate informatique. Lorsque les joueurs vont se déplacer, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L’objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés dans le réseau par le pirate ou par les traces laissées par les autres. En cas d’élimination, tous les joueurs doivent recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant par exemple des boutons qui ouvrent des passages pour les autres, des obstacles mobiles et bien plus encore.*
-<blockquote>Le texte a été pris du site github de l'équipe de *Terminal*
-[Référence](https://pythons-5.github.io/Terminal/#/)<sup>1</sup>
+*La science en grand
+L’activité familiale interactive parfaite pour expérimenter la science! En termes d’activités à faire à Montréal, Explore maîtrise la science de l’amusement. Découvrez la science derrière le mouvement, l’air, la lumière, l’eau, la géométrie, la matière et le code avec une bulle de savon géante, des tables à eaux, une grue et de nombreuses autres activités
+
+Tout est dans la mécanique Découvrez l’univers ingénieux des machines simples comme les poulies, les engrenages et les leviers (en format géant!), laissez-vous déboussoler par l’effet gyroscopique à l’aide d’une roue libre et relevez le défi collaboratif d’illuminer un éclair géant en transformant vos mouvements en électricité. À la conquête du vent Explorez un élément invisible, mais d’une force tout à fait réelle. Venez jouer avec le vent, expérimenter la pression de l’air, ressentir l’effet d’une tornade et vous laisser fasciner par les trajectoires surprenantes d’un labyrinthe à air. Source de découvertes Vous serez heureux comme un poisson dans l’eau en batifolant autour de deux tables à eau qui vous révèleront les nombreuses forces et inventions que nous procure cette source de vie. Construisez des parcours d’eau, observez un véritable vortex et générez même de l’électricité!*
+<blockquote>Le texte a été pris du site officiel de la Société des Musées du Québec.*
+[Référence](https://www.musees.qc.ca/decouvrir-musees/calendrier-expositions/centre-des-sciences-de-montreal-explore-211/)<sup>1</sup>
  </blockquote>
 
  <br>
