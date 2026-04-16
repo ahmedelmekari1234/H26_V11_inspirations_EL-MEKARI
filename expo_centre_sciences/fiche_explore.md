@@ -62,7 +62,7 @@ Le titre du dispositif est__.
 <br>
 
 **Descrpition de l'oeuvre:**
-- Cartel présent sur le site officiel. 
+**Cartel présent sur le site officiel.** 
 *La science en grand
 L’activité familiale interactive parfaite pour expérimenter la science! En termes d’activités à faire à Montréal, Explore maîtrise la science de l’amusement. Découvrez la science derrière le mouvement, l’air, la lumière, l’eau, la géométrie, la matière et le code avec une bulle de savon géante, des tables à eaux, une grue et de nombreuses autres activités.*
 
