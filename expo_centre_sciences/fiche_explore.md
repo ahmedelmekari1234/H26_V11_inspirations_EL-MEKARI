@@ -136,4 +136,4 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 <br>
 
 ## Références:
-1. Dans ce lien vous trouverez le cartel présent dans le point de la description à l'identique et la date de création avec fin de l'expositon. Le site est pris de la *Société des Arts du Québéc. https://www.musees.qc.ca/decouvrir-musees/calendrier-expositions/centre-des-sciences-de-montreal-explore-211/
+1. Dans ce lien vous trouverez le cartel présent dans le point de la description à l'identique et la date de création avec fin de l'expositon. Le site est pris de la *Société des Arts du Québéc*. https://www.musees.qc.ca/decouvrir-musees/calendrier-expositions/centre-des-sciences-de-montreal-explore-211/
