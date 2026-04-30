@@ -90,7 +90,11 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 
 **Fonction du dispositif Multimédia**
 
-La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur la description de l'oeuvre dans la section information que nous pouvons voir sur le côté de l'image au dessus.
+La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur la description de l'oeuvre dans la section information que nous pouvons voir sur la photo ci-dessous.
+
+![Photo de la banque d'Information faite par Ahmed El-Mekari.](./photo/banque_informations.png) 
+
+expo_centre_sciences/photo/banque_informations.png
 
 <br>
 
