@@ -142,3 +142,4 @@ La technique que je ne connaissais pas est la création d'un jeu en réalité al
 
 
 ![Photo du code informatique pour utiliser un code qr dans un jeu.](./photo_terminal/photo_technique.png)
+<blockquote> [Dans ce lien vous trouverez un dépot github et c'est de où j'ai trouvé le code contenu dans la capture d'écran.](https://github.com/nimiq/qr-scanner/blob/master/src/qr-scanner.ts)</blockquote>
