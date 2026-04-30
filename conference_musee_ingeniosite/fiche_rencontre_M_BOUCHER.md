@@ -16,11 +16,11 @@ En premier lieu, nous avions commencé la discussion sur qu’est-ce que c’est
 <br>
 
 
-![Photo d'une autoneige dans l'exposition *Garage*.](./photo/autoneige-dans-le-garage.png)
+![Photo d'une autoneige dans l'exposition *Garage*.]()
  
 
 ## Conclusion
 
 Mon appréciation de la conférence. Je l’ai trouvé riche en information et amusante. En effet, avoir la possibilité de parler avec quelqu’un dans le domaine et qui travaille en temps réel. De plus, j’ai aimé lorsque j’ai pu poser des questions et que les questions se rendaient jusqu’à la personne concernée. Enfin, l’organisation pour cette conférence était très bien exécutée. Avoir de l’aide de quelqu’un qui sait plus que moi sera tout le temps quelque chose dont je vais profiter.
 
- 
+## 
