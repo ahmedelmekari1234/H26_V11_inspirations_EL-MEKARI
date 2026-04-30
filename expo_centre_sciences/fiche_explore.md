@@ -23,7 +23,7 @@ Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 Le lieu de l'exposition est au Centre des Sciences de Montréal. Voilà ume photo de moi devant l'entrée.
 
 ![Photo d'Ahmed El-Mekari devant l'entrée du Centre des Sciences faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
-<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre.</blockquote>
+<blockquote>La photo d'Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre.</blockquote>
 
 <br>
 
@@ -83,8 +83,8 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 <br>
 
 
-![Photo d'Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
-<blockquote>Photo faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
+![Photo d'Ahmed El-Mekari faite par Sylvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
+<blockquote>Photo d'Ahmed El-Mekari faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
 
 <br>
 
@@ -137,7 +137,7 @@ Je trouve que c'était une très bonne expérience, car l'aspect que l'art au co
 
 <br>
 
-![Photo d'Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
+![Photo d'Ahmed El-Mekari faite par Sylvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 <blockquote>Photo faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
 
 
