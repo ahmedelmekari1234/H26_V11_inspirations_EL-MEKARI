@@ -37,7 +37,7 @@ C'est une exposition de type permanente et intérieure. La date de début était
 <br>
 
 **Titre du dispositif:**
-Le titre du dispositif est__.
+Le titre du dispositif est *TOUT S'APPREND*.
 
 <br>
 
@@ -53,7 +53,7 @@ Le titre du dispositif est__.
 **Nom des créateurs et créatrices:**
 <br>
 
-
+Les créateurs ne sont pas indiqués, mais l'oeuvre a été construite par l'équipe complète du *Centre des Sciences*.
 
 <br>
 
