@@ -132,6 +132,8 @@ Les 3 cours m'intéréssant le plus:
 - Modélisation 3D
 - Réalité mixte
 
+- <br>
+
 **Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.**
 
 <br>
