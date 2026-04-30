@@ -137,4 +137,8 @@ Les 3 cours m'intéréssant le plus:
 <br>
 
 La technique que je ne connaissais pas est la création d'un jeu en réalité alternée. En effet, cette technique est ce que l'équipe de *Terminal* a utilisé pour lier le code QR à un jeu.
+
+<br>
+
+
 ![Photo du code informatique pour utiliser un code qr dans un jeu.](./photo_terminal/photo_technique.png)
