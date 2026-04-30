@@ -92,10 +92,12 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 **Mise en espace** 
 
 ![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/terminal_scenarimage.png)
-<blockquote>Croquis pris du Site Officiel Github de l'équipe de *Terminal*.https://pythons-5.github.io/Terminal/#/concept/</blockquote>
+
 <br>
 
 **Composantes techniques:**
+
+![Photo du croquis faite par Ahmed El-Mekari.](./expo_centre_sciences/photo/dispositif_ecran.png)
 
 <br>
 
