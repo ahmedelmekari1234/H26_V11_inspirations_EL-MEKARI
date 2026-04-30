@@ -78,14 +78,14 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 ## 3. Descrpition technologique de l'exposition:
 
 **Vue d'ensemble:**
-![Croquis pris du Site Officiel Github de l'équipe de *Terminal*. ](./photo_terminal/terminal_vue_ensemble.png)
+![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 <blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensemble.</blockquote>
 
 <br>
 
 **Fonction du dispositif Multimédia**
 
-La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur la description de l'oeuvre dans la section d
+La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur la description de l'oeuvre dans la section information.
 
 <br>
 
