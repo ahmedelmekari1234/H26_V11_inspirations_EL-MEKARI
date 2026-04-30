@@ -85,7 +85,7 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 
 **Fonction du dispositif Multimédia**
 
-<blockquote>La photo a été prise par Ahmed El-Mekari</blockquote>
+La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur
 
 <br>
 
@@ -97,7 +97,6 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 
 **Composantes techniques:**
 
-![Photo du croquis faite par Ahmed El-Mekari.](./expo_centre_sciences/photo/dispositif_ecran.png)
 
 <br>
 
