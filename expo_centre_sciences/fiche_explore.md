@@ -11,6 +11,8 @@
 
 Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 
+![Photo faite par Ahmed El-Mekari de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche.png) 
+
 
 <br>
 
@@ -40,7 +42,6 @@ Le titre du dispositif est *TOUT S'APPREND*.
 
 <br>
 
-![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 
 <br>
 
