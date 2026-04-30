@@ -78,6 +78,10 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 ## 3. Descrpition technologique de l'exposition:
 
 **Vue d'ensemble:**
+
+<br>
+
+
 ![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 <blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensemble.</blockquote>
 
