@@ -96,7 +96,10 @@ La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer qu
 
 **Mise en espace** 
 
-![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/terminal_scenarimage.png)
+<br>
+
+![Croquis fait par Ahmed El-Mekari.](./photo/croquis_explore_01.png)
+
 <blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
 
 
