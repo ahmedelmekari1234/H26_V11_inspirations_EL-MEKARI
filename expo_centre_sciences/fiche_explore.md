@@ -85,7 +85,7 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 
 **Fonction du dispositif Multimédia**
 
-La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur
+La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur la description de l'oeuvre dans la section d
 
 <br>
 
@@ -108,7 +108,7 @@ La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer qu
 ## 4. Section Informations 
 
 **Éléments nécéssaires à la mise en exposition:**
--L'exposition ne possèbe pas de cable visible. Un énorme talent. Tout est caché sous les petits carrées de métals comme montré dans les aspects technologiques de l'oeuvre. La plaque pour le guide de l'oeuvre possède en dessous d'elle, plusieurs fils.
+-L'exposition ne possèbe pas de cable visible. Un énorme talent. Tout est caché sous les petits carrées de métals comme montré dans les aspects technologiques de l'oeuvre. La plaque pour le guide de l'oeuvre possède en dessous d'elle, plusieurs fils. Je vous dirige dans la partie au dessus, les composantes techniques. Plus précisement, la pancarte. En effet, tout ce passe en dessus de la pancarte. Les fils etc.
 
 
 
@@ -118,6 +118,8 @@ La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer qu
 
 
 **Expérience vécue:**
+
+Je trouve que c'était une très bonne expérience, car l'aspect que l'art au complet et la clartée peuvent changer en un cliq sur la tablette.
 
 <br>
 
