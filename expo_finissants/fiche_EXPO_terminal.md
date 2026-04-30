@@ -80,7 +80,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 **Mise en espace** 
 
-![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/terminal_vue_ensemble.png)
+![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/terminal_mise_en_espace.png)
 <blockquote>Croquis pris du Site Officiel Github de l'équipe de *Terminal*.https://pythons-5.github.io/Terminal/#/concept/</blockquote>
 <br>
 
