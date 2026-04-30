@@ -122,3 +122,14 @@ Le projet a commencé en 2925. La finale était en 2026.
 
 ## Références:
 1. [Dans ce lien vous trouverez le cartel présent dans le point de la description à l'identique.](https://pythons-5.github.io/Terminal/#/)
+
+
+## Section: Informations recherchées:
+
+**Nommer 3 cours du programme qui vous semblent incontournables pour avoir les compétences pour créer ce genre de projet (voir la grille de cours du programme)**
+Les 3 cours m'intéréssant le plus:
+- Animation 3D
+- Modélisation 3D
+- Réalité mixte
+
+**
