@@ -11,7 +11,6 @@
 
 Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 
-![Photo faite par Ahmed El-Mekari de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche.png) 
 
 <br>
 
