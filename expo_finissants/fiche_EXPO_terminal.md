@@ -14,19 +14,19 @@ Le nom de l'exposition se nomme *EXPOSITION DES ÉTUDIANT.E.S FINISSANT.E.S EN T
 
 <br>
 
-
+**Lieu de l'exposition**
 <br>
-
+Le lieu de l'expostion est dans le grand studio de la technique T.I.M du Collège Montmorency.
 
 **Type d'expostion:**
-C'est une exposition de type temporaire et intérieure. La date de début était le 24 février 2026. La date de fin est le 18 mars 2026 
+C'est une exposition de type temporaire et intérieure. La date de début était le 24 février 2026. La date de fin est le 18 mars 2026.
 
 
 <br>
 
 **Date de la visite:**
-24 février 2026
-18 mars 2026
+24 février 2026.
+18 mars 2026.
 <br>
 
 
@@ -58,7 +58,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 **Descrpition de l'oeuvre:**
 - Cartel présent sur le site officiel. 
 *TERMINAL est un jeu collaboratif pouvant accueillir jusqu’à 6 joueurs. Chaque joueur contrôle un opérateur, grâce à la manette sur leur téléphone, qui essaie de trouver l'accès au vieux réseau internet afin de restaurer les données qui ont été corrompues par une cyberattaque orchestrée par un fameux pirate informatique. Lorsque les joueurs vont se déplacer, une ligne suit leur trajectoire et devient un obstacle pour les autres opérateurs. L’objectif est que tous les joueurs atteignent la fin des niveaux sans être éliminés par les obstacles laissés dans le réseau par le pirate ou par les traces laissées par les autres. En cas d’élimination, tous les joueurs doivent recommencer le niveau depuis le début. Au fur et à mesure de la progression, les niveaux deviennent de plus en plus complexes, introduisant par exemple des boutons qui ouvrent des passages pour les autres, des obstacles mobiles et bien plus encore.*
-<blockquote>Le texte a été pris du site github de l'équipe de *Terminal*
+<blockquote>Le texte a été pris du site github de l'équipe de *Terminal*.
 [Référence](https://pythons-5.github.io/Terminal/#/)<sup>1</sup>
  </blockquote>
 
@@ -73,9 +73,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 <br>
 
 **Fonction du dispositif Multimédia**
-
-<blockquote>La photo a été prise par Ahmed El-Mekari</blockquote>
-
+La fonction du dispositif est de s'amuser tout en essayant de trouver un moyen de gagner.
 <br>
 
 **Mise en espace** 
@@ -96,7 +94,7 @@ Le projet a commencé en 2925. La finale était en 2026.
 ## 4. Section Informations 
 
 **Éléments nécéssaires à la mise en exposition:**
-- L'exposition se crait dans les coulisses. En effet, les cables éléctriques se font tous dans les murs. Un exemple pourrait être dans la photo du QR code montré ci-dessus. Le QR code possède une machine qui elle envoie le signal au reste des dispositifs de l'exposition.
+- L'exposition se crait dans les coulisses. En effet, les cables éléctriques se font tous dans les murs. Un exemple pourrait être dans la photo du QR code montré ci-dessus. Le QR code possède une machine qui elle envoie le signal au reste des dispositifs de l'exposition. Tous les éléments sont aussi montrés dans la section au dessus.
 
 
 
