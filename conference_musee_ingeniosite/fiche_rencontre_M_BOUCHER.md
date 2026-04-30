@@ -16,7 +16,7 @@ En premier lieu, nous avions commencé la discussion sur qu’est-ce que c’est
 <br>
 
 
-![Photo d'une autoneige dans l'exposition *Garage*.]()
+![Photo d'une autoneige dans l'exposition *Garage*.](./photo/exposition_garage.png)
  
 
 ## Conclusion
