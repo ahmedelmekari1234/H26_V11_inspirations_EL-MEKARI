@@ -134,3 +134,6 @@ Les 3 cours m'intéréssant le plus:
 
 **Nommer et décrire une technique ou une composante technologique qui est utilisée dans l'un des projets et que vous ne connaissiez pas.**
 
+<br>
+
+La technique que je ne connaissais pas est la création d'un jeu en réalité alternée. En effet, cette technique est ce que l'équipe de *Terminal* a utilisé pour lier le code QR à un jeu.
