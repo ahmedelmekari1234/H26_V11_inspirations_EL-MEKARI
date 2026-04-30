@@ -12,6 +12,7 @@
 Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 
 ![Photo faite par Ahmed El-Mekari de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche.png) 
+<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
 
 
 <br>
@@ -83,7 +84,7 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 
 
 ![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
-<blockquote>Photo faite par Ahmed El-Mekari de la vue d'ensemble.</blockquote>
+<blockquote>Photo faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
 
 <br>
 
@@ -96,6 +97,8 @@ La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer qu
 **Mise en espace** 
 
 ![Photo du croquis faite par Ahmed El-Mekari.](./photo_terminal/terminal_scenarimage.png)
+<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
+
 
 <br>
 
@@ -128,6 +131,7 @@ Je trouve que c'était une très bonne expérience, car l'aspect que l'art au co
 <br>
 
 ![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
+<blockquote>Photo faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
 
 
 <br>
