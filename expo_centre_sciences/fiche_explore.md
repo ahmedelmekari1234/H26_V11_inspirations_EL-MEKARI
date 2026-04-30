@@ -12,7 +12,7 @@
 Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 
 ![Photo faite par Ahmed El-Mekari de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche.png) 
-<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
+<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre.</blockquote>
 
 
 <br>
@@ -22,8 +22,8 @@ Le nom de l'exposition se nomme *EXPLORE - LA SCIENCE EN GRANDE*.
 <br>
 Le lieu de l'exposition est au Centre des Sciences de Montréal. Voilà ume photo de moi devant l'entrée.
 
-![Photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
-<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
+![Photo d'Ahmed El-Mekari devant l'entrée du Centre des Sciences faite par ⁠Rivard-Septimus Alexandre de l'affiche faite par le Centre des Sciences.](./photo/explore_affiche_soi_dehors.png) 
+<blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre.</blockquote>
 
 <br>
 
@@ -83,7 +83,7 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 <br>
 
 
-![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
+![Photo d'Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 <blockquote>Photo faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
 
 <br>
@@ -93,8 +93,7 @@ L’activité familiale interactive parfaite pour expérimenter la science! En t
 La fonction de ce dispositif est que le *Centre des Sciences* voulait montrer que l'I.A peut donner une certaine forme d'art. Cependant, il est bien a noté que l'I.A se réfère aux vrais artistes comme montré sur la description de l'oeuvre dans la section information que nous pouvons voir sur la photo ci-dessous.
 
 ![Photo de la banque d'Information faite par Ahmed El-Mekari.](./photo/banque_informations.png) 
-
-expo_centre_sciences/photo/banque_informations.png
+<blockquote>Photo de la banque d'information faite par Ahmed El-Mekari.</blockquote>
 
 <br>
 
@@ -103,6 +102,7 @@ expo_centre_sciences/photo/banque_informations.png
 <br>
 
 ![Croquis fait par Ahmed El-Mekari.](./photo/croquis_explore_01.png)
+<blockquote>Croquis fait par Ahmed El-Mekari.</blockquote>
 
 <blockquote>La photo de Ahmed El-Mekari devant l'entrée du Centre des Sciences a été faite par ⁠Rivard-Septimus Alexandre</blockquote>
 
@@ -137,7 +137,7 @@ Je trouve que c'était une très bonne expérience, car l'aspect que l'art au co
 
 <br>
 
-![Photo de Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
+![Photo d'Ahmed El-Mekari faite par SYlvie, Francoise de la vue d'ensemble du mechanisme.](./photo/explore_vue_ensemble_dispo.png) 
 <blockquote>Photo faite par Sylvie,Francoise de la vue d'ensemble.</blockquote>
 
 
